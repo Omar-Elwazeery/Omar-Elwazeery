@@ -1,80 +1,31 @@
-# Konichiwa 👋
+# Hi, I'm Omar 👋
 
-<div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+**System Administrator.** I keep Windows servers, networks and firewalls running, and build web apps, bots and automation tools alongside that.
 
-</br>
-</br>
-</br>
+**Available for full-time, part-time and freelance work** · remote or on-site
+🌐 [madwezza.com](https://madwezza.com) · ✉️ omrelwazeery@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/omarelwaziry/)
 
+## What I do
 
-# About ME 💬 :
+- **Systems & IT:** Windows Server, Active Directory, Group Policy, WDS/PXE imaging, backup and endpoint management
+- **Networking & security:** Cisco switching and VLANs, Sophos firewall and SD-WAN, site-to-site and remote-access VPN, hardening
+- **Web apps:** Next.js, React, Supabase, three.js, deployment on Vercel, Cloudflare or a VPS
+- **Automation & bots:** Python, PowerShell, Selenium, Discord bots, AI agent tools, Docker and systemd
 
-### - I'm 23 years  IT Specialist & CyberSecurity Enthusiast.
+## Selected work
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+| Project | What it is |
+| --- | --- |
+| [Physio Atlas](https://github.com/Omar-Elwazeery/physio-atlas) | Interactive 3D atlas of muscles, joints and movement · [live](https://physio-atlas-gules.vercel.app) |
+| [Albion Craft Scout](https://github.com/Omar-Elwazeery/albion-craft-market-scout) | Market scanner and AI agent skill that verifies profitable crafts with live data · [live](https://omar-elwazeery.github.io/albion-craft-market-scout/) |
+| [D&D 2024 Character Forge](https://madwezza.com/work/dnd-2024-character-forge/) | Character builder with PDF export · [live](https://dnd-2024-builder.vercel.app) |
+| [Arabian Dice](https://madwezza.com/work/arabian-dice/) | Arabic, right-to-left community site with booking and an admin back office · [live](https://arabiandice.com) |
+| [Gringotts](https://madwezza.com/work/gringotts/) | Discord economy bot with a simulated stock market |
 
-### - Learning :
-- ✨ Junior Penetration Tester (PT1)
+More case studies on [madwezza.com](https://madwezza.com).
 
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Light Novels
+## Open source
 
-</br>
-</br>
-</br>
-
-
-
-# Languages & Tools 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
-</p>
-</br>
-</br>
-</br>
-
-
-
-# Contact Me :
-
-<p>
- </br>
-
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="omrelwazeery@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="http://linkedin.com/in/omarelwaziry/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Omar-Elwazeery&&show_icons=true&theme=radical"/>
-  </a>
-  </p>
-
-*************
+- [Revit MCP](https://github.com/mcp-servers-for-revit/mcp-servers-for-revit/pull/60): closed an unauthenticated remote-code-execution path
+- [KeyFlip](https://github.com/za09abosaad-beep/KeyFlip/pull/2): two merged PRs, plus CI and a signed release pipeline
+- [CodeGraph](https://github.com/colbymchenry/codegraph/pull/3098) and [OpenWiki](https://github.com/langchain-ai/openwiki/pull/189): open PRs
